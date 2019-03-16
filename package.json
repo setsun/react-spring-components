@@ -1,6 +1,6 @@
 {
   "name": "react-spring-components",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "Setsun <setsun@setsun.io>",
   "license": "MIT",
   "description": "Easily configurable React components for spring-physics animations / transitions 🌱",

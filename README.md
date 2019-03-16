@@ -14,6 +14,5 @@ For properties that affect layout, the browser has to recalculate all other elem
 `react-spring-components` aims to use `react-spring` for the most common UI animations where browser reflow is unavoidable, and accelerate these animations with JS spring animations optimized with `requestAnimationFrame`.
 
 # Components
-- `HeightSpring`
-- `WidthSpring`
+- `ExpandSpring`
 - `Scroller`
