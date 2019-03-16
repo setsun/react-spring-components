@@ -1,5 +1,3 @@
-import { HeightSpring } from './components/HeightSpring';
-import { WidthSpring } from './components/WidthSpring';
+import ExpandSpring from './components/ExpandSpring';
 
-export { HeightSpring };
-export { WidthSpring };
+export { ExpandSpring };
